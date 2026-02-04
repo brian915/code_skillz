@@ -1,9 +1,9 @@
-----
-name: "code_skillz"
+---
+name: "code-skillz"
 description: "Instructions for AI-assisted coding collaboration with strict process control"
 ---
 
-# codex_coding_collaboration: Instructions for AI-assisted Coding
+# code-skillz: Instructions for AI-assisted Coding
 
 When to use this skill: Use this skill whenever you want to collaborate with ChatGPT on a programming project while retaining oversight over the flow of the interaction and the code produced.
 
