@@ -1,4 +1,6 @@
-# Code Skillz
+ ![AI Only Wants Programmers Who Have Great Skills!](https://brianrunk.net/images/napoleon.png)
+ 
+ # Code Skillz
 
 Instructions for AI-assisted coding collaboration with strict process control.
 
