@@ -36,7 +36,7 @@ AI in the Loop. Human directed, the model provides focused responses without aut
    - Codex: `use code-skillz` or `$code-skillz`
    - Claude.ai (browser/app):
      - Go to Settings > Capabilities > Skills
-     - Upload the skill as a ZIP file containing the folder????? 
+     - Upload the SKILL.md (or a ZIP file containing the skill)
      - Toggle on/off as needed
 
 ## Note
