@@ -1,4 +1,4 @@
- ![AI Only Wants Programmers Who Have Great Skills!](https://brianrunk.net/images/napoleon.png)
+ ![AI Only Wants Programmers Who Have Great Skills!](https://brianrunk.net/assets/images/napoleon.png)
  
  # Code Skillz
 
