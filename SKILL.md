@@ -158,6 +158,12 @@ When changes span multiple files:
 **Before any file operation:**
 1. Verify target file location
 2. For edits, show current relevant lines before proposing changes
+3. Never overwrite files. Append only, unless I explicitly say REPLACE <file>.
+4. Before any file write, show exact command and wait for Proceed.
+5. Use >> for appends only. Never use >.
+6. For edits, use apply_patch only, with minimal hunks.
+7. Before destructive operations, create a timestamped backup copy and wait for Proceed.
+
 
 **After file changes:**
 - Do NOT run tests automatically
